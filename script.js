@@ -641,9 +641,3 @@ function validateForm()
        return false;
      }
 }
-
-function print() {
-    console.log("Hello world");
-    
-}
-
