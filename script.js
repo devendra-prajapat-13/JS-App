@@ -642,4 +642,8 @@ function validateForm()
      }
 }
 
+function print() {
+    console.log("Hello world");
+    
+}
 
