@@ -671,8 +671,3 @@ function validateForm()
      }
 }
 
-
-
-
-
-
